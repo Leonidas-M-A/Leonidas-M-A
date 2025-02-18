@@ -13,40 +13,10 @@
 - 🖥️  Мли учебные работы [мои работы](http://ссылка здесь)
 - 🚀  Сейчас работаю над [Диплом по профессии "DataScientist" в Нетологии](http://как то та)### Skills 
 
-<h3 align="left">*   ✉️  mail [salve.lm35@gmail.com](mailto:salve.lm35@gmail.com)</h3>
+<h3 align="left">✉️  mail [salve.lm35@gmail.com](mailto:salve.lm35@gmail.com)</h3>
+<h3 align="left">✉️  Telegram [@leonidas_m](mailto:@leonidas_m)</h3>
 <p align="left">
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonidas-m-a&show_icons=true&locale=en&layout=compact" alt="leonidas-m-a" /></p>
 
-
-По образованию и призванию - инженер 
-По образу мысли - аналитик 
-По подходу к делу - энтузиаст
-
-*   🌍  I'm based in Россия
-*   🖥️  See my portfolio at [мои работы](http://ссылка здесь)
-*   ✉️  You can contact me at [salve.lm35@gmail.com](mailto:salve.lm35@gmail.com)
-*   🚀  I'm currently working on [Диплом по профессии "DataScientist" в Нетологии](http://как то та)### Skills 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-                    </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                      <a href="https://www.github.com/leonidas-m-a" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.threads.net/@телеграмм" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>
