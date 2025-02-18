@@ -1,7 +1,7 @@
 <h1 align="center">Привет 👋, я Леонид Михайлов</h1>
 <h3 align="center">Data scientist</h3>
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1vJpFVM1aVK3ouS9LeoaM9x-1EjkYgGND/edit?usp=sharing&ouid=117151976016690915320&rtpof=true&sd=true](https://docs.google.com/document/d/1vJpFVM1aVK3ouS9LeoaM9x-1EjkYgGND/edit?usp=sharing&ouid=117151976016690915320&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1vJpFVM1aVK3ouS9LeoaM9x-1EjkYgGND/edit?usp=sharing&ouid=117151976016690915320&rtpof=true&sd=true](https://docs.google.com/document/d/1vJpFVM1aVK3ouS9LeoaM9x-1EjkYgGND/edit?usp=sharing&ouid=117151976016690915320&rtpof=true&sd=true11)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
