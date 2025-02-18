@@ -18,7 +18,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonidas-m-a&show_icons=true&locale=en&layout=compact" alt="leonidas-m-a" /></p>
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Леонид Михайлов
+Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Леонид Михайлов
 =======================================================================================================================================
 
 Data scientist
