@@ -11,6 +11,7 @@
 
 - 📄 Мое [резюме](https://docs.google.com/document/d/1vJpFVM1aVK3ouS9LeoaM9x-1EjkYgGND/edit?usp=sharing&ouid=117151976016690915320&rtpof=true&sd=true11)
 - 🖥️  Мли учебные работы [мои работы](http://ссылка здесь)
+- 🚀  Сейчас работаю над [Диплом по профессии "DataScientist" в Нетологии](http://как то та)### Skills 
 
 <h3 align="left">*   ✉️  mail [salve.lm35@gmail.com](mailto:salve.lm35@gmail.com)</h3>
 <p align="left">
@@ -18,12 +19,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonidas-m-a&show_icons=true&locale=en&layout=compact" alt="leonidas-m-a" /></p>
 
-
-Привет![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Леонид Михайлов
-=======================================================================================================================================
-
-Data scientist
---------------
 
 По образованию и призванию - инженер 
 По образу мысли - аналитик 
