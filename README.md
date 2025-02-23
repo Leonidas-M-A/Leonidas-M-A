@@ -40,7 +40,7 @@
 - 🚀  Сейчас работаю над дипломом по профессии "DataScientist" в Нетологии
 ---
 
-- 📄 Мое [резюме](https://docs.google.com/document/d/1vJpFVM1aVK3ouS9LeoaM9x-1EjkYgGND/edit?usp=sharing&ouid=117151976016690915320&rtpof=true&sd=true11)
+- 📄 Мое [резюме](https://drive.google.com/file/d/1gjIi1LjBpja0YpBtY6UPh8ezZe1wIb0o/view?usp=sharing)
   
 - ✉️ Контактные данные:  
 <h3 align="center">salve.lm35@gmail.com </h3>
